@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Ankush</h1> 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=yash-ankush&label=Profile%20views&color=0e75b6&style=flat" alt="yash-ankush" /> 
+  <img src="https://komarev.com/ghpvc/?username=yash-ankushh&label=Profile%20views&color=0e75b6&style=flat" alt="yash-ankushh" /> 
 </p>
 
 
@@ -14,7 +14,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yash_ankush) [![LinkedIn](https://img.shields.io/badge/%40-Linkedin-blue)](https://www.linkedin.com/in/yash-ankush/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yash_ankush) [![LinkedIn](https://img.shields.io/badge/%40-Linkedin-blue)](https://www.linkedin.com/in/yash-ankushh/) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_yash_ankush) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashankush20@gmail.com) 
 
@@ -24,19 +24,19 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yash-ankush&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-ankush&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-ankush&theme=dark&hide_border=false" alt="GitHub Streak Stats" height="200"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=yash-ankushh&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-ankushh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-ankushh&theme=dark&hide_border=false" alt="GitHub Streak Stats" height="200"/>  
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yash-ankush&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=yash-ankushh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yash-ankush&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=yash-ankushh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <picture>
