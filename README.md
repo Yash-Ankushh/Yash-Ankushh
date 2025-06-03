@@ -24,15 +24,13 @@
 
 # 📊 GitHub Stats:
 
-# 📊 GitHub Stats:
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash-Ankushh&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Yash-Ankushh&theme=github_dark_dimmed&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash-Ankushh&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="420"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Yash-Ankushh&theme=github_dark_dimmed&hide_border=false" alt="GitHub Streak Stats" width="420"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Ankushh&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Ankushh&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="420"/>
 </div>
 
 
