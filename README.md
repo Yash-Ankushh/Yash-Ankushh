@@ -24,14 +24,17 @@
 
 # 📊 GitHub Stats:
 
+# 📊 GitHub Stats:
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yash-ankushh&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-ankushh&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash-Ankushh&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Yash-Ankushh&theme=github_dark_dimmed&hide_border=false" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-ankushh&theme=github_dark_dimmed&hide_border=false" alt="GitHub Streak Stats" height="200"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Ankushh&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
+
 
 
 ## 🏆 GitHub Trophies
