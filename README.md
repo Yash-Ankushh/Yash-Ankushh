@@ -25,8 +25,8 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash-Ankushh&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="420"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Yash-Ankushh&theme=github_dark_dimmed&hide_border=false" alt="GitHub Streak Stats" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash-Ankushh&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="420" height="200"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Yash-Ankushh&theme=github_dark_dimmed&hide_border=false" alt="GitHub Streak Stats" width="420" height="200"/>
 </div>
 
 <div align="center">
